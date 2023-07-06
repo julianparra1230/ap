@@ -1,1 +1,5 @@
-mensaje secreto
+esta es mi historia aprendiendo git
+
+tengo 22 años cerca de los 23, naci en colombia pero vivo en argentina
+
+hoy estoy aprendiendo git aprendiendo sobre el git status y el cat historia.txt que sirve paa ver el contenido de el archivo en la terminal
